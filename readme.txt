@@ -7,3 +7,4 @@ Add a new line.
 
 dev things to do.
 
+a message added by vmware machine.
